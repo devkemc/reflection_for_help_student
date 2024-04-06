@@ -1,0 +1,28 @@
+
+	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô¯àè1J$0b04e518-d979-41af-a614-d495d46bd36f
+‡
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÁÄÆª8ˆ°àè1J$aa347cba-5acc-4204-9b4a-2783f3fa4573
+¢
+java:S1450"ZRemove the "controllers" field and declare it as a local variable in the relevant methods.(ëëšñÿÿÿÿÿ8‹°àè1J$af6a9c3c-4164-4eae-981d-05167cd203bf
+˜
+java:S1989 "PHandle the following exception that could be thrown by "sendError": IOException.(Ø­¾ùÿÿÿÿ8°àè1J$ab44f681-320a-4eb2-8bf4-48b12b6581a3
+˜
+java:S1989%"PHandle the following exception that could be thrown by "sendError": IOException.(Ø­¾ùÿÿÿÿ8°àè1J$37e0aec7-4e67-4851-afed-8ce228f1c9df
+š
+java:S1989*"WHandle the following exception that could be thrown by "getMethods": SecurityException.(·ñÒ8Ÿ°àè1J$1ebc1a8a-c279-4a0e-b5f7-3309654ef49b
+˜
+java:S19893"PHandle the following exception that could be thrown by "sendError": IOException.(Ø­¾ùÿÿÿÿ8 °àè1J$8f95466f-5bc0-4a78-a2bd-b2c2863fa637
+˜
+java:S1989="PHandle the following exception that could be thrown by "sendError": IOException.(œÎæûûÿÿÿÿ8¢°àè1J$0ce87a8c-de5c-416b-b2c4-330e15fe10e2
+k
+java:S1185C"(Remove this method to simply inherit it.(üª¼í8£°àè1J$0311b2d2-855d-46b7-b1f2-b0d8c5579d17
+¨
+java:S1989D"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ8£°àè1J$6fa36e84-c84a-4391-b3d1-d7777b2a768c
+w
+java:S1172\"/Remove this unused method parameter "endpoint".(û—Çìÿÿÿÿÿ8±°àè1J$29609b52-960c-4c34-8011-a9d387e12547
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ëëšñÿÿÿÿÿ8´°àè1J$257fb55a-7799-4eac-9ebb-44d63a14f0ec
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ü·ö©ıÿÿÿÿ8´°àè1J$80f6ca56-de1a-4b21-a274-4969abd9fd1f
+
+java:S1144\"FRemove this unused private "getMethodForMethodHttpAndEndpoint" method.(û—Çìÿÿÿÿÿ8µ°àè1J$582d8445-b010-4da1-863e-594b592c9e69
